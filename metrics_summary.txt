@@ -1,0 +1,16 @@
+
+Model Comparison Summary
+------------------------
+
+LSTM Model:
+- RMSE: 1.0736
+- MAE: 0.8406
+- MAPE: 127.96%
+
+Baseline Model (Rolling Mean):
+- RMSE: 1.6419
+- MAE: 1.2631
+- MAPE: 207.64%
+
+Improvement (Lower RMSE is better):
+- RMSE Improvement: 0.5683
